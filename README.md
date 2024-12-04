@@ -1,2 +1,2 @@
-# employee-finder
-Employee Directory Web App
+# Employee Finder
+
